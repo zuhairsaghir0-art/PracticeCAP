@@ -1,3 +1,3 @@
 service product {
-    function printhelloworld (input : String) returns String;
+    function printhelloworld (input: String) returns String;
 }
