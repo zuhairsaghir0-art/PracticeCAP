@@ -4,6 +4,6 @@
 
 #GET http://localhost:4004/odata/v4/product/Myfunction(category=2)
 
-#GET http://localhost:4004/odata/v4/product
+GET http://localhost:39217/odata/v4/productshop/Product
 
-GET http://localhost:4004/odata/v4/productshop/Supplier
+#GET http://localhost:4004/odata/v4/productshop/Supplier
